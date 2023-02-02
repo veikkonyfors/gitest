@@ -1,2 +1,2 @@
 # gitest
-Testing git 
+Testing git and github
